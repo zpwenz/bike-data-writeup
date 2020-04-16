@@ -1,0 +1,8 @@
+Three main phenomena were uncovered from the data, taken from the beginning of 2018 to March 2020:
+1. Subscribers appear to be mostly commuters, presumably to and from work
+Those that use the service as a subscriber ride mostly on weekdays, and ride between the times of 6am and 9am, and 4pm and 7pm. Customers ride more frequently on weekends.
+
+2. The most traveled route is between Grove St. and Hamilton. Grove St. is the most common place to start a route. 
+
+3. Subscribers rarely start and end their trip in the same location. While customers make up under 10 percent of all users, they completed over one third of all round trips (trips that started and ended in the same location). This highlights the fact that subscribers are mainly commuters, likely to and from work. 
+
